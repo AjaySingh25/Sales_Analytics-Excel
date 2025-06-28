@@ -1,82 +1,74 @@
-# Sales_Analytics-Excel
-Excel-Sales-&-Finance-Dashboard
-# Project Overview
-This project focuses on developing interactive and insightful dashboards to analyze both Sales and Finance data using Microsoft Excel, Power Query, and Power Pivot. It is designed to aid strategic decision-making and performance monitoring.
+# Excel-Sales-&-Finance-Dashboard
 
-# Sales Report
-Objectives:
-- Build a Customer Performance Report to assess sales effectiveness.
+## Project Overview
 
-- Conduct a comparison of market performance against predefined sales targets.
+This project focuses on developing interactive and insightful dashboards to analyze both **Sales** and **Finance** data using Microsoft Excel, Power Query, and Power Pivot. It is designed to aid strategic decision-making and performance monitoring.
 
-# Purpose:
-Enable businesses to track, analyze, and evaluate their sales data in a meaningful way.
+---
 
-# Importance of Analyzing Sales Data:
-- Spot sales trends and seasonal patterns.
+## Sales Report
 
-- Track KPIs like revenue, growth, customer performance, and target achievement.
+### Objectives:
+1. Build a [**Customer Performance Report**](./Customer%20Performance%20Report.pdf)
+2. Conduct a [**Market Performance vs Target**](./Market%20Performance%20vs%20Target.pdf)
 
-# Role of Reports:
-- Recommend effective customer discounts.
+### Purpose:
+Enable businesses to **track**, **analyze**, and **evaluate** their sales data in a meaningful way.
 
-- Support negotiations with clients.
+### Importance of Analyzing Sales Data:
+- Spot **sales trends and seasonal patterns**.
+- Track **KPIs** like revenue, growth, customer performance, and target achievement.
 
-- Discover market expansion opportunities in high-potential regions.
+### Role of Reports:
+- Recommend **effective customer discounts**.
+- Support **negotiations** with clients.
+- Discover **market expansion** opportunities in high-potential regions.
 
-# Finance Report
-Objectives:
+---
 
-- Create Profit & Loss (P&L) reports segmented by Fiscal Year and Month.
+## Finance Report
 
-- Generate Market-wise P&L summaries to monitor financial health.
+### Objectives:
+1. Create [**P&L by Fiscal Years**](./P%20%26%20L%20Fiscal%20Years%20.pdf) and [**P&L by Months**](./P%20%26%20L%20Months.pdf)
+2. Generate [**P&L for Markets**](./P%20%26%20L%20for%20Markets.pdf)
 
-# Purpose:
-Support financial assessment, help in stakeholder communication, and enable data-driven financial decisions.
+### Purpose:
+Support **financial assessment**, help in **stakeholder communication**, and enable **data-driven financial decisions**.
 
-# Importance of Finance Data Analysis:
+### Importance of Finance Data Analysis:
+- Benchmark performance against **industry standards** and **historical data**.
+- Set a foundation for **budgeting and forecasting**.
 
-- Benchmark performance against industry standards and historical data.
+### Role of Reports:
+- Align **financial strategy** with business goals.
+- Strengthen **confidence** in the company's financial health.
 
-- Set a foundation for budgeting and forecasting.
+---
 
-# Role of Reports:
+## Technical & Soft Skills Demonstrated
 
-- Align financial strategy with business goals.
+###  Technical Skills:
+- Mastery of **ETL (Extract, Transform, Load)** using Power Query.
+- Generation of custom **Date Tables** for time-based analysis.
+- Deriving **Fiscal Months and Quarters**.
+- Building relationships using **Power Pivot**.
+- Merging **external data sources** into the data model.
+- Creating **Calculated Columns and Measures** using **DAX**.
 
-- Strengthen confidence in the company's financial health.
+### Soft Skills:
+- Deep understanding of **Sales & Finance domains**.
+- Designing **user-focused dashboards** with clarity and purpose.
+- Improving performance with **optimization techniques**.
+- Applying a **systematic approach** to dashboard planning and execution.
 
-# Technical & Soft Skills Demonstrated
-Technical Skills:
+---
 
-- Mastery of ETL (Extract, Transform, Load) using Power Query.
+## Tools Used
+- **Microsoft Excel**
+- **Power Query**
+- **Power Pivot**
+- **DAX (Data Analysis Expressions)**
 
-- Generation of custom Date Tables for time-based analysis.
+---
 
-- Deriving Fiscal Months and Quarters.
-
-- Building relationships using Power Pivot.
-
-- Merging external data sources into the data model.
-
-- Creating Calculated Columns and Measures using DAX.
-
-Soft Skills:
-
-- Deep understanding of Sales & Finance domains.
-
-- Designing user-focused dashboards with clarity and purpose.
-
-- Improving performance with optimization techniques.
-
-- Applying a systematic approach to dashboard planning and execution.
-
-# Tools Used
-- Microsoft Excel
-
-- Power Query
-
-- Power Pivot
-
-- DAX (Data Analysis Expressions)
-  
+> 💡 *Click the links above to view full PDF reports right from the repository.*
